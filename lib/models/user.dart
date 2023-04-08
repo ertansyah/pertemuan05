@@ -30,7 +30,7 @@ class User {
     return User(
       id: 001,
       name: "Ertansyah rizal priadi sumarna",
-      username: "Ertansyah rizal ",
+      username: "Ertansyahrizal",
       email: "2006008@itg.ac.id",
       profilePhoto:
           "https://i.postimg.cc/Vv0y0Xjx/12105905-725397827593662-363295958876178890-n.jpg",
