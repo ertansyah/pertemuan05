@@ -29,12 +29,12 @@ class User {
   factory User.dummy() {
     return User(
       id: 001,
-      name: "Ertansyah rizal priadi sumarna",
-      username: "Ertansyah ",
-      email: "2006008@itg.ac.id",
+      name: "Kelompok 2",
+      username: "Kel 2 ",
+      email: "000000@itg.ac.id",
       profilePhoto:
           "https://i.postimg.cc/Vv0y0Xjx/12105905-725397827593662-363295958876178890-n.jpg",
-      phoneNumber: "083102066000",
+      phoneNumber: "08123456789",
     );
   }
 }
